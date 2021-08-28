@@ -30,7 +30,7 @@ baseurl: https://shallquist.github.io # the subpath of your site, e.g. /blog
 github_username:  shallquist
 
 # Build settings
-theme: "just-the-docs"
+# theme: "just-the-docs"
 
 plugins:
   - jekyll-feed
